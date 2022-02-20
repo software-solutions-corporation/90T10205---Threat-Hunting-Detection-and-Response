@@ -1,8 +1,9 @@
 # Threat-Hunting-Detection-and-Response
 
 Duration
-
 5 Days
+
+This is the source repo for https://activecm.github.io/threat-hunting-labs/
 
 Introduction to Cybersecurity Threats Detection, Hunting and Response.Computer attacks and data breaches are inevitable. It seems like every day a data breach occurs and the victims of the data breach suffer. Their information is stolen or posted online. The company’s or businesses who had the breach go on, learn a little from the attack, and just give credit monitoring out as if nothing happened. What if you could help prevent a data breach in your organization? The course is designed to guide the learner thru Computer Security specialization.
 
